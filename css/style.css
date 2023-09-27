@@ -1,0 +1,44 @@
+h1, h3 {
+    border: dotted black 1px;
+    font-family: sans-serif;
+    color: green;
+    background-color: aquamarine;
+
+}
+
+.first-header {
+    color: red;
+    font-size: 40px;
+}
+
+
+
+.flexbox {
+    display: flex;
+}
+
+.container {
+    border: solid 5px;
+}
+
+.item1 {
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    order: 2;
+}
+
+.item2 {
+    background-color: hotpink;
+    height: 50px;
+    width: 50px;
+    order: 1;
+}
+
+.item3 {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    order:1;
+}
+
